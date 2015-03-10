@@ -13,7 +13,7 @@
   "main": "./lib/passport-yahoo",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport-openid": "git://github.com/ozten/passport-openid.git"
+    "passport-openid": "git://github.com/mozilla/passport-openid.git"
   },
   "devDependencies": {
     "vows": "0.6.x"
